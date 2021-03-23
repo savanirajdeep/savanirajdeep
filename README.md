@@ -23,5 +23,7 @@
   <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
     <img height=175 align="center" src="https://github-readme-stats-lac-five.vercel.app/api?    username=savanirajdeep&count_private=true&show_icons=true&include_all_commits=true&theme=radical">
   </a>
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=savanirajdeep&layout=compact&&langs_count=10&theme=radical)
+<br>  
+  ![Github stats](https://github-readme-stats.vercel.app/api?username=savanirajdeep&hide=stars&show_icons=true&theme=radical)
+
 </p>
