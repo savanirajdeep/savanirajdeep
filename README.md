@@ -20,6 +20,7 @@
   <hr>
   
 <p align=center >
+  ![Savani Rajdeep's GitHub stats](https://github-readme-stats.vercel.app/api?username=savanirajdeep&show_icons=true&theme=radical)
   <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
     <img height=175 align="center" src="https://github-readme-stats-lac-five.vercel.app/api?username=savanirajdeep&count_private=true&show_icons=true&include_all_commits=true&theme=gotham">
   </a>
