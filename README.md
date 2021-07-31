@@ -14,7 +14,7 @@
   <p align="center">
       I am Rajdeep. I started my coding when I was 17 years old. Since then I am enjoying journey.
     <br>
-      🔬 I'm currently studying for a Bachelor's degree in Computer Science at VIT University
+      🔬 I'm currently studying for a Bachelor's degree in Computer Science with specialization in Internet Of Things at VIT University
     <br>
       📫 How to reach me: <a href="mailto: savanirajdeep5@gmail.com">savanirajdeep5@gmail.com</a>
   </p>
