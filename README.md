@@ -12,11 +12,13 @@
   </a>
   <br>
   <p align="center">
-      I am Rajdeep. I started my coding when I was 17 years old. Since then I am enjoying journey.
+        Hello! I am Rajdeep Savani, a 20 years old passionate programmer interested in Mobile Development. 
     <br>
-      🔬 I'm currently studying for a Bachelor's degree in Computer Science with specialization in Internet Of Things at VIT University
+      🔬 I'm currently studying for a Bachelor's degree in Computer Science with specialization in Internet Of Things at VIT University. 
     <br>
-      You can get my Resume : [Rajdeep' Resume](https://drive.google.com/file/d/1HfhM12yKLD2lP7Os2Dc33vLybzVRImJC/view?usp=sharing)
+      :seedling: I have experience in Android Development and a bit of Frontend Dev.
+    <br>
+      :computer: You can get my Resume : <a href="https://drive.google.com/file/d/1HfhM12yKLD2lP7Os2Dc33vLybzVRImJC/view?usp=sharing">Rajdeep's Resume</a>
     <br>
       📫 How to reach me: <a href="mailto: savanirajdeep5@gmail.com">savanirajdeep5@gmail.com</a>
   </p>
