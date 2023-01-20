@@ -16,7 +16,7 @@
     <br>
       🔬 I'm currently studying for a Bachelor's degree in Computer Science with specialization in Internet Of Things at VIT University
     <br>
-      You can get my Resume : Rajdeep's Resume(https://drive.google.com/file/d/1HfhM12yKLD2lP7Os2Dc33vLybzVRImJC/view?usp=sharing)
+      You can get my Resume : [Rajdeep's Resume] (https://drive.google.com/file/d/1HfhM12yKLD2lP7Os2Dc33vLybzVRImJC/view?usp=sharing)
     <br>
       📫 How to reach me: <a href="mailto: savanirajdeep5@gmail.com">savanirajdeep5@gmail.com</a>
   </p>
