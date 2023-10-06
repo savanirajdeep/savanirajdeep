@@ -12,9 +12,9 @@
   </a>
   <br>
   <p align="center">
-        Hello! I am Rajdeep Savani, a 20 years old passionate programmer interested in Mobile Development. 
+        Hello! I am Rajdeep Savani, a 21 years old passionate programmer interested in Mobile Development. 
     <br>
-      🔬 I'm currently studying for a Bachelor's degree in Computer Science with specialization in Internet Of Things at VIT University. 
+      🔬 I'm currently studying for a Bachelor's degree in Computer Science with a specialization in Internet Of Things at VIT University. 
     <br>
       :seedling: I have experience in Android Development and a bit of Frontend Dev.
     <br>
