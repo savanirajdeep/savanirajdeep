@@ -18,7 +18,7 @@
     <br>
       :seedling: I have experience in Android Development and a bit of Fullstack Dev.
     <br>
-      :computer: You can get my Resume : <a href="https://drive.google.com/file/d/1HfhM12yKLD2lP7Os2Dc33vLybzVRImJC/view?usp=sharing">Rajdeep's Resume</a>
+      :computer: You can get my Resume : <a href="https://drive.google.com/file/d/1uuB-p1U9AConDzQyzks3g5jERWOpo2Yz/view?usp=sharing">Rajdeep's Resume</a>
     <br>
       📫 How to reach me: <a href="mailto: savanirajdeep5@gmail.com">savanirajdeep5@gmail.com</a>
   </p>
