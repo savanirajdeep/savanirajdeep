@@ -1,5 +1,5 @@
 
-<h3 align="center">Hii there, I'm Rajdeep 👋</h3>
+<h3 align="center">Hi there, I'm Rajdeep 👋</h3>
 <p align="center">
   <a href="https://www.linkedin.com/in/savanirajdeep5/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile">
@@ -12,13 +12,15 @@
   </a>
   <br>
   <p align="center">
-        Hello! I am Rajdeep Savani, a 21-year-old passionate programmer interested in Mobile Development. 
+        # Hi there! 👋 I'm Rajdeep, a passionate Android & Software Developer 
+    <br>
+    🚀 I'm a recent Computer Science graduate with a strong foundation in software engineering, mobile app development, and problem-solving. My main focus is on building efficient, scalable,            and user-friendly Android applications, but I'm always eager to learn new technologies and expand my skillset. 
     <br>
       🔬 I'm currently studying for a Master's degree in Computer Science at University of South Florida.  
     <br>
       :seedling: I have experience in Android Development and a bit of Fullstack Dev.
     <br>
-      :computer: You can get my Resume : <a href="https://drive.google.com/file/d/1uuB-p1U9AConDzQyzks3g5jERWOpo2Yz/view?usp=sharing">Rajdeep's Resume</a>
+      :computer: You can get my Resume : <a href="https://drive.google.com/file/d/17yGsCYA6TDKoJufdnPasNN9JJs5VbElL/view?usp=drive_link">Rajdeep's Resume</a>
     <br>
       📫 How to reach me: <a href="mailto: savanirajdeep5@gmail.com">savanirajdeep5@gmail.com</a>
   </p>
@@ -35,3 +37,21 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=savanirajdeep&layout=compact&theme=nord" />
   </a>
 </p>
+
+## 🔧 Technologies I work with:
+- **Android**: Kotlin, Java, Jetpack Compose, Retrofit, Room, Firebase
+- **Languages**: Python, JavaScript, C, C++
+- **Tools**: Git, GitHub, Android Studio, VS Code, Docker, Postman
+- **Database**: SQL, Firebase Realtime Database, SQLite, NoSQL, MongoDB, Room Database
+
+## 🌱 Currently learning:
+- Building cross-platform apps with Flutter and React Native
+- Deepening knowledge of Cloud and backend technologies (Node.js, AWS, Firebase)
+
+## 💡 What excites me:
+- Crafting clean and scalable code
+- Building innovative mobile apps that make a real impact
+- Staying up-to-date with the latest trends in software development
+
+## 📚 Projects:
+Check out my repositories to explore my open-source Android projects and personal software development initiatives. Feel free to contribute, open issues, or just reach out for a chat! 😊
