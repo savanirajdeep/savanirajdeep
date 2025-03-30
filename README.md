@@ -20,9 +20,9 @@
     <br>
       :seedling: I have experience in Android Development and a bit of Fullstack Dev.
     <br>
-      :computer: You can get my Resume : <a href="https://drive.google.com/file/d/17yGsCYA6TDKoJufdnPasNN9JJs5VbElL/view?usp=drive_link">Rajdeep's Resume</a>
+      :computer: You can get my Resume : <a href="https://drive.google.com/file/d/1VDKwG9HYAqHVki4JXe5ZT39oNPWiiRLW/view?usp=drive_link">Rajdeep's Resume</a>
     <br>
-      📫 How to reach me: <a href="mailto: savanirajdeep5@gmail.com">savanirajdeep5@gmail.com</a>
+      📫 How to reach me: <a href="mailto: savanirajdeep17@gmail.com">savanirajdeep17@gmail.com</a>
   </p>
 </p>
 
