@@ -19,39 +19,46 @@
 
 ### 👨‍💻 About Me
 
-I'm **Rajdeep Savani**, a passionate **Java & Android Developer** with over **3 years of experience** crafting robust, scalable, and high-performing applications.
+I'm **Rajdeep Savani**, a **Full Stack Developer** with three years of experience building enterprise web applications and native mobile solutions using Java, Kotlin, and the Spring framework. I have a proven track record of architecting scalable systems, optimizing application performance, and implementing robust security measures. I'm an expert in full-stack development, cloud deployment, and agile methodologies.
 
-- 🎓 Master's in Computer Science @ **University of South Florida**
+- 🎓 Master's in Computer Science @ **University of South Florida, Tampa, USA** 
 - 💼 Currently working as **Java Developer @ Freddie Mac, USA**
-- 📱 Former **Android Developer @ TechXccess Solution**
+- 📱 Former **Android Developer @ Citus Infotech, India** 
 - 💡 Passionate about clean code, performance optimization, and elegant UIs
 - 🌍 Always eager to explore new tools and contribute to open-source
 
-📄 [**View My Resume**](https://drive.google.com/file/d/1pQyy34w4Kr09mPnmvi7INdRSdWtZg83f/view?usp=sharing)
+📄 [**View My Resume**](https://drive.google.com/file/d/13u22n2E1OiLI4wNdb5Xs7FpGfFcMxq1W/view?usp=sharing)
 
-📬 Reach me at: **savanirajdeep17@gmail.com**
+📬 Reach me at: **rajdeep@cvtechmail.com** 
 
 ---
 
 ### 🛠️ Technologies I Work With
 
-#### 🚀 Android Development
-- **Languages**: Kotlin, Java
-- **UI & Architecture**: Jetpack Compose, XML, MVVM
-- **Libraries**: Retrofit, Room, LiveData, ViewModel, Firebase, OkHttp
+#### 🚀 Mobile Development
+- **Languages**: Kotlin, Java 
+- **Frameworks & Libraries**: Android SDK, Android Jetpack (Room, ViewModel, LiveData, Navigation), Retrofit, OkHttp, Firebase, Glide, Dagger 2, Hilt
 
 #### 💻 Backend & Web
-- Java (Core/8/11), Spring Boot, Hibernate, JSP/Servlets, REST APIs  
-- Microservices, MVC, JSON, Kafka, WebSockets
+- **Languages**: Core Java, Java 8/11, SQL 
+- **Frameworks**: Spring MVC, Spring Boot, Hibernate 
+- **J2EE Technologies**: Servlets, JSP, JSTL, JavaBeans, JDBC
+- **Web Technologies**: Kafka, Ajax, JSON, XML
+- **Architectural Frameworks**: Model View Controller (MVC), Microservices Architecture 
 
 #### 🌐 Frontend
-- HTML5, CSS3, JavaScript, ReactJS, Tailwind, Bootstrap
+- **Languages**: HTML5, CSS3, JavaScript/ES6, TypeScript 
+- **Frameworks**: VueJS, ReactJS, Bootstrap, jQuery, Tailwind
 
 #### 🧰 Tools & DevOps
-- Git, GitHub, Docker, Postman, IntelliJ, VS Code, Eclipse
+- **IDEs**: IntelliJ IDEA, Visual Studio Code, Eclipse, Netbeans 
+- **Version Control**: Git, GitHub
+- **Build Tools**: Maven 
+- **Methodology**: SDLC, Agile, Waterfall 
 
 #### ☁️ Cloud & Databases
-- AWS, GCP, MySQL, PostgreSQL, MongoDB, Firebase, Redis, Elasticsearch
+- **Cloud Technology**: Google Cloud Platform (GCP), Amazon Web Services (AWS) 
+- **Databases**: MySQL, PostgreSQL, Elasticsearch, Redis 
 
 ---
 
