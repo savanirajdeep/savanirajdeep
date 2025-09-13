@@ -13,7 +13,7 @@
 
 ### 👨‍💻 About Me
 
-I'm **Rajdeep Savani**, a **Full Stack Developer** with three years of experience building enterprise web applications and native mobile solutions using Java, Kotlin, and the Spring framework. I have a proven track record of architecting scalable systems, optimizing application performance, and implementing robust security measures. I'm an expert in full-stack development, cloud deployment, and agile methodologies.
+I'm **Rajdeep Savani**, a **Software Engineer** with three years of experience building enterprise the Spring framework, native solutions using Java, Kotlin and web applications. I have a proven track record of architecting scalable systems, optimizing application performance, and implementing robust security measures. I'm an expert in full-stack development, cloud deployment, and agile methodologies.
 
 - 🎓 Master's in Computer Science @ **University of South Florida, Tampa, USA** 
 - 💼 Currently working as **Java Developer @ Freddie Mac, USA**
