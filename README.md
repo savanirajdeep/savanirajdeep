@@ -16,8 +16,8 @@
 I'm **Rajdeep Savani**, a **Software Engineer** with three years of experience building enterprise the Spring framework, native solutions using Java, Kotlin and web applications. I have a proven track record of architecting scalable systems, optimizing application performance, and implementing robust security measures. I'm an expert in full-stack development, cloud deployment, and agile methodologies.
 
 - 🎓 Master's in Computer Science @ **University of South Florida, Tampa, USA** 
-- 💼 Currently working as **Java Developer @ Freddie Mac, USA**
-- 📱 Former **Android Developer @ Citus Infotech, India** 
+- 💼 Currently working as **Software Engineer @ Freddie Mac, USA**
+- 📱 Former **Software Engineer @ Citus Infotech, India** 
 - 💡 Passionate about clean code, performance optimization, and elegant UIs
 - 🌍 Always eager to explore new tools and contribute to open-source
 
@@ -28,10 +28,6 @@ I'm **Rajdeep Savani**, a **Software Engineer** with three years of experience b
 ---
 
 ### 🛠️ Technologies I Work With
-
-#### 🚀 Mobile Development
-- **Languages**: Kotlin, Java 
-- **Frameworks & Libraries**: Android SDK, Android Jetpack (Room, ViewModel, LiveData, Navigation), Retrofit, OkHttp, Firebase, Glide, Dagger 2, Hilt
 
 #### 💻 Backend & Web
 - **Languages**: Core Java, Java 8/11, SQL 
@@ -44,16 +40,20 @@ I'm **Rajdeep Savani**, a **Software Engineer** with three years of experience b
 - **Languages**: HTML5, CSS3, JavaScript/ES6, TypeScript 
 - **Frameworks**: VueJS, ReactJS, Bootstrap, jQuery, Tailwind
 
+#### ☁️ Cloud & Databases
+- **Cloud Technology**: Google Cloud Platform (GCP), Amazon Web Services (AWS) 
+- **Databases**: MySQL, PostgreSQL, Elasticsearch, Redis
+
+#### 🚀 Mobile Development
+- **Languages**: Kotlin, Java 
+- **Frameworks & Libraries**: Android SDK, Android Jetpack (Room, ViewModel, LiveData, Navigation), Retrofit, OkHttp, Firebase, Glide, Dagger 2, Hilt
+
 #### 🧰 Tools & DevOps
 - **IDEs**: IntelliJ IDEA, Visual Studio Code, Eclipse, Netbeans 
 - **Version Control**: Git, GitHub
 - **Build Tools**: Maven 
 - **Methodology**: SDLC, Agile, Waterfall 
-
-#### ☁️ Cloud & Databases
-- **Cloud Technology**: Google Cloud Platform (GCP), Amazon Web Services (AWS) 
-- **Databases**: MySQL, PostgreSQL, Elasticsearch, Redis 
-
+ 
 ---
 
 ### 📊 GitHub Stats
