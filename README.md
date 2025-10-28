@@ -21,7 +21,7 @@ I'm **Rajdeep Savani**, a **Software Engineer** with three years of experience b
 - 💡 Passionate about clean code, performance optimization, and elegant UIs
 - 🌍 Always eager to explore new tools and contribute to open-source
 
-📄 [**View My Resume**](https://drive.google.com/file/d/13u22n2E1OiLI4wNdb5Xs7FpGfFcMxq1W/view?usp=sharing)
+📄 [**View My Resume**](https://drive.google.com/file/d/1aODbh3vFmlika6qIDW8aFDWdwB8Lacgn/view?usp=sharing)
 
 📬 Reach me at: **rajdeep@cvtechmail.com** 
 
