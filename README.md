@@ -1,92 +1,66 @@
-<h2 align="center">Hi there, I'm Rajdeep 👋</h2>
+<h2 align="center">Rajdeep Savani</h2>
+<p align="center">Software Engineer | Backend Engineering | Cloud & DevSecOps</p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/savanirajdeep5/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile">
-  </a>
-  <a href="https://github.com/savanirajdeep">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  </a>
+  <a href="https://www.linkedin.com/in/savanirajdeep5/">LinkedIn</a> |
+  <a href="https://github.com/savanirajdeep">GitHub</a> |
+  <a href="mailto:rajdeep@cvtechmail.com">Email</a> |
+  <a href="https://drive.google.com/file/d/1aODbh3vFmlika6qIDW8aFDWdwB8Lacgn/view?usp=sharing">Resume</a>
 </p>
 
 ---
 
-### 👨‍💻 About Me
+## About
 
-I'm **Rajdeep Savani**, a **Software Engineer** with three years of experience building enterprise the Spring framework, native solutions using Java, Kotlin and web applications. I have a proven track record of architecting scalable systems, optimizing application performance, and implementing robust security measures. I'm an expert in full-stack development, cloud deployment, and agile methodologies.
-
-- 🎓 Master's in Computer Science @ **University of South Florida, Tampa, USA** 
-- 💼 Currently working as **Software Engineer @ Freddie Mac, USA**
-- 📱 Former **Software Engineer @ Citus Infotech, India** 
-- 💡 Passionate about clean code, performance optimization, and elegant UIs
-- 🌍 Always eager to explore new tools and contribute to open-source
-
-📄 [**View My Resume**](https://drive.google.com/file/d/1aODbh3vFmlika6qIDW8aFDWdwB8Lacgn/view?usp=sharing)
-
-📬 Reach me at: **rajdeep@cvtechmail.com** 
+I am a Software Engineer with experience in backend development, cloud-native systems, microservices, and DevSecOps practices. My work focuses on building secure, scalable, and reliable platforms using Java, Spring Boot, AWS, Docker, and Kubernetes. I maintain strong development standards, emphasize maintainability, and follow secure coding and CI/CD best practices.
 
 ---
 
-### 🛠️ Technologies I Work With
+## Technical Skills
 
-#### 💻 Backend & Web
-- **Languages**: Core Java, Java 8/11, SQL 
-- **Frameworks**: Spring MVC, Spring Boot, Hibernate 
-- **J2EE Technologies**: Servlets, JSP, JSTL, JavaBeans, JDBC
-- **Web Technologies**: Kafka, Ajax, JSON, XML
-- **Architectural Frameworks**: Model View Controller (MVC), Microservices Architecture 
+### Programming Languages
+Java, Go, Python, Kotlin, SQL
 
-#### 🌐 Frontend
-- **Languages**: HTML5, CSS3, JavaScript/ES6, TypeScript 
-- **Frameworks**: VueJS, ReactJS, Bootstrap, jQuery, Tailwind
+### Backend Development
+Spring Boot, Spring MVC, REST APIs, Kafka, GraphQL, WebSockets, Hibernate, Servlets, JDBC, JSP
 
-#### ☁️ Cloud & Databases
-- **Cloud Technology**: Google Cloud Platform (GCP), Amazon Web Services (AWS) 
-- **Databases**: MySQL, PostgreSQL, Elasticsearch, Redis
+### Cloud & Containerization
+AWS (EC2, S3, RDS, ELB, Auto Scaling, CloudWatch), Docker, Kubernetes, Red Hat OpenShift
 
-#### 🚀 Mobile Development
-- **Languages**: Kotlin, Java 
-- **Frameworks & Libraries**: Android SDK, Android Jetpack (Room, ViewModel, LiveData, Navigation), Retrofit, OkHttp, Firebase, Glide, Dagger 2, Hilt
+### DevSecOps & CI/CD
+Jenkins, GitLab, GitHub Actions  
+JUnit, Mockito  
+JWT, Spring Security, OWASP, SAST/DAST awareness  
+Code reviews, branching strategies, secure SDLC
 
-#### 🧰 Tools & DevOps
-- **IDEs**: IntelliJ IDEA, Visual Studio Code, Eclipse, Netbeans 
-- **Version Control**: Git, GitHub
-- **Build Tools**: Maven 
-- **Methodology**: SDLC, Agile, Waterfall 
- 
----
+### Databases
+MySQL, PostgreSQL, MongoDB, Redis, Elasticsearch
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=savanirajdeep&show_icons=true&theme=tokyonight" alt="Rajdeep's GitHub Stats"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=savanirajdeep&layout=compact&theme=nord" alt="Top Languages"/>
-</p>
+### Frontend & Tools
+React, HTML, CSS, JavaScript, Bootstrap, Tailwind CSS  
+Maven, Git, IntelliJ IDEA, Visual Studio Code  
+Agile methodologies, Microservices architecture, SDLC
 
 ---
 
-### 🌱 Currently Learning
+## Professional Interests
 
-- 🔧 Advancing expertise in **Spring Boot microservices**, API security, and system performance optimization
-- ☁️ Mastering cloud deployment & scalability with **AWS, GCP, Docker, and CI/CD pipelines**
-
----
-
-### 📚 Projects
-
-Browse through my [GitHub Repositories](https://github.com/savanirajdeep?tab=repositories) to check out:
-
-- 🚀 Real-world Android apps
-- ⚙️ Backend systems
-- 📦 Open-source contributions
-
-> 💬 Feel free to **connect**, **collaborate**, or **reach out** — always open to great ideas and conversations!
+- Cloud-native application design  
+- Distributed systems and microservice architecture  
+- DevSecOps automation and cloud security  
+- Scalable API development  
+- Production-grade CI/CD pipelines  
+- System reliability and performance engineering  
 
 ---
 
-<p align="center">
-  Made with ❤️ by Rajdeep
-</p>
+## Learning Focus
+
+- Advanced Kubernetes deployment patterns  
+- Secure cloud architecture  
+- High-performance application design  
+- Applied machine learning for engineering use cases  
+
+---
+
+<p align="center">Profile maintained by Rajdeep Savani</p>
