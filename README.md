@@ -4,8 +4,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/savanirajdeep5/">LinkedIn</a> |
   <a href="https://github.com/savanirajdeep">GitHub</a> |
-  <a href="mailto:rajdeep@cvtechmail.com">Email</a> |
-  <a href="https://drive.google.com/file/d/1aODbh3vFmlika6qIDW8aFDWdwB8Lacgn/view?usp=sharing">Resume</a>
+  <a href="mailto:rajdeep.s@techjobmail.com">Email</a>
 </p>
 
 ---
